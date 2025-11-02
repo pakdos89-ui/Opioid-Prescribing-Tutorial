@@ -2,15 +2,21 @@
 
 This E-learning module is created in a way to assess knowledge and attitude over prescription of Opiods among Healthcare workers in Pusat Perubatan Universiti Malaya as we can take measurements needed to improve knowledge and attitude towards Opioid prescription in cancer pain management.
 
-## Trivia 1
 
+### Quiz 1
 Which is not an element of the WHO approach to opioid prescribing?
 
-[( )] by the mouth
-[(x)] by injection
-[( )] by the clock
-[( )] by the ladder
+- A. by the mouth
+- B. by injection
+- C. by the clock
+- D. by the ladder
 
+<details>
+<summary>Answer (click to reveal)</summary>
+
+B. by injection
+
+</details>
 
 # Introduction
 
@@ -40,13 +46,30 @@ Thus pain should be routinely assessed at regular interval as the 5th vital sign
 
 We can do pain scoring by using pain assessment tool that is recommended for use in our hospitals is the Ministry of Health (MOH) pain scale, a scale that combines NRS, the VAS and faces scale for a more comprehensive assessment.
 
+<img width="631" height="170" alt="Picture 3" src="https://github.com/user-attachments/assets/11491c65-b748-45f4-b396-ab4c20c3a808" />
 
-![alt text](<Picture 3.png>)
+### Quiz 2
+Which of the following is not part of cancer pain management? 
 
+- i. Pharmacotherapy
+- ii. Physiotherapy
+- iii. Occupational therapy intervention
+- iv. Acupuncture
+
+Anwers options
+- A. i & ii
+- B. i & iii
+- C. i, ii & iii
+- D. All of above 
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- D. All of above 
 
 ## Approach to Pain Management
 
-![alt text](<Cancer Mx chart.png>)
+<img width="902" height="529" alt="Cancer Mx chart" src="https://github.com/user-attachments/assets/a2bb4909-0eba-49ba-9955-86eb9cd09a86" />
 
 ## Non Pharmacological Management
 
@@ -104,7 +127,7 @@ It is essential to monitor the patient’s response to the medication while mini
 
 ## Analgesics Ladder
 
-![alt text](<Picture 1-1.png>)
+<img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/2372efcb-9472-416c-8bea-ca9e2610521d" />
 
 ## List of available Analgesic Medications
 
@@ -180,7 +203,7 @@ Peak analgesic effect:
 - IM / SC: 30 minutes 
 - IV: 5 minutes
 
-![alt text](<Picture 2.png>)
+<img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/946b9727-d984-4e7c-b338-b926301ed0ec" />
 
 ## Opioid Initiation and Titration
 
@@ -206,26 +229,38 @@ Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
 
-## Trivia 2
-
+### Quiz 2
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
-[( )] 5 mg/ 4 hourly
-[(X)] 7 mg / 4 hourly
-[( )] 10 mg / 4 hourly
+- A. 5 mg/ 4 hourly
+- B. 7 mg / 4 hourly
+- C. 10 mg / 4 hourly
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+B. 7 mg / 4 hourly
+
+</details>
 
 ## Opioid Conversion
 
-![alt text](<Picture 4-1.png>)
+<img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
 
-## Trivia 3
-
+### Quiz 3
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
-[( )] 200 mg / 24h 
-[(X)] 20 mg / 24h
-[( )] 60 mg / 24h
+- A. 200 mg / 24 hours 
+- B. 20 mg / 24 hours
+- C. 60 mg / 24 hours
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+B. 20 mg / 24 hours
+
+</details>
 
 ## Breakthrough Pain Management
 
