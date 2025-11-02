@@ -69,7 +69,7 @@ Anwers options
 
 </details>
 
-## Approach to Pain Management
+# Approach to Pain Management
 
 <img width="902" height="529" alt="Cancer Mx chart" src="https://github.com/user-attachments/assets/a2bb4909-0eba-49ba-9955-86eb9cd09a86" />
 
