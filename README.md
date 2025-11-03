@@ -49,7 +49,7 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 <img width="631" height="170" alt="Picture 3" src="https://github.com/user-attachments/assets/11491c65-b748-45f4-b396-ab4c20c3a808" />
 
 ### Quiz 2
-Which of the following is not part of cancer pain management? 
+Which of the following is part of cancer pain management? 
 
 - i. Pharmacotherapy
 - ii. Physiotherapy
