@@ -201,6 +201,8 @@ Peak analgesic effect:
 
 <img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/946b9727-d984-4e7c-b338-b926301ed0ec" />
 
+Image 8: Pharmacokinetics of different group of strong opioids
+
 ## Opioid Initiation and Titration
 
 Titrated according to individual analgesic response and occurrence of adverse events
@@ -243,6 +245,8 @@ B. 7 mg / 4 hourly
 ## Opioid Conversion
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
+
+Image 9: Opioids dose conversion summary
 
 ### Quiz 4
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
