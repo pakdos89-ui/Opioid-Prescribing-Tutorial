@@ -36,7 +36,6 @@ The main barriers to effective pain control in Malaysia relate to physicians’ 
 - 38% were worried about legal issues.
 
 <img width="902" height="527" alt="Poor Pain Mx" src="https://github.com/user-attachments/assets/78c10fb3-9aad-4dc0-bb4f-feae55c186e7" />
-
 **Image 1: Causes of Poor Pain Management**
 
 Thus pain should be routinely assessed at regular interval as the 5th vital sign during routine observation to advocate “Pain as the 5th Vital Sign” initative.
@@ -44,7 +43,6 @@ Thus pain should be routinely assessed at regular interval as the 5th vital sign
 We can do pain scoring by using pain assessment tool that is recommended for use in our hospitals is the Ministry of Health (MOH) pain scale, a scale that combines NRS, the VAS and faces scale for a more comprehensive assessment.
 
 <img width="631" height="170" alt="Picture 3" src="https://github.com/user-attachments/assets/11491c65-b748-45f4-b396-ab4c20c3a808" />
-
 **Image 2: Pain Assessment Tool used in Ministry of Health Malaysia settings**
 
 ### Quiz 2
@@ -71,13 +69,11 @@ Anwers options
 ## APPROACH TO PAIN MANAGEMENT
 
 <img width="902" height="529" alt="Cancer Mx chart" src="https://github.com/user-attachments/assets/a2bb4909-0eba-49ba-9955-86eb9cd09a86" />
-
 **Image 3: Approach to Pain Management**
 
 ## NON PHARMACOLOGICAL MANAGEMENT
 
 <img width="902" height="527" alt="Non pharmaco mx" src="https://github.com/user-attachments/assets/ae0e4d47-a3e6-4f1a-bc83-72007356d0b9" />
-
 **Image 4: Non Pharmacological Management of Pain**
 
 ## PHARMACOLOGICAL MANAGEMENT
@@ -100,19 +96,16 @@ It is essential to monitor the patient’s response to the medication while mini
 ## PRINCIPLE OF ANALGESIC MANAGEMENT
 
 <img width="914" height="527" alt="Principal of analgesics" src="https://github.com/user-attachments/assets/20e0abef-2c44-4465-8018-00020ff610d2" />
-
 **Image 5: Principles in Analgesic Management**
 
 ## ANALGESICS LADDER
 
 <img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/2372efcb-9472-416c-8bea-ca9e2610521d" />
-
 **Image 6: Analgesic Ladder based on Malaysia Cancer Pain CPG**
 
 ## LIST OF AVAILABLE ANALGESIC MEDICATIONS
 
 <img width="927" height="541" alt="Pharmacological" src="https://github.com/user-attachments/assets/03439445-eaba-4dd1-9781-e7e9441c1b9e" />
-
 **Image 7: Pharmacological Options**
 
 ### NON OPIOIDS
@@ -183,7 +176,6 @@ Peak analgesic effect:
 - IV: 5 minutes
 
 <img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/946b9727-d984-4e7c-b338-b926301ed0ec" />
-
 **Image 8: Pharmacokinetics of different group of strong opioids**
 
 ## OPIOID INITIATION AND TITRATION 
@@ -228,7 +220,6 @@ B. 7 mg / 4 hourly
 ## OPIOID CONVERSION
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
-
 **Image 9: Opioids dose conversion summary**
 
 ### Quiz 4
@@ -272,7 +263,6 @@ Management includes
 
 
 <img width="410" height="387" alt="Opioid AE" src="https://github.com/user-attachments/assets/f1ce77db-63ce-464e-ab4b-46465a886623" />
-
 **Image 10: Management of most common Opioid's adverse effects, taken from Malaysia Cancer Pain CPG**
 
 In the management of cancer pain for older patients or those with
@@ -298,10 +288,10 @@ If **severe respiratory depression with respiratory rate of < 8x/ minute occurs*
 
 ## OPIOID TOLERANCE AND ADDICTION
 
-<ins>### Opioid Tolerance<ins>
+### Opioid Tolerance
 Opioid tolerance refers to reduced effectiveness after long-term use, requiring higher doses for the same effect. This should not deter appropriate opioid therapy for cancer pain.
 
-<ins>### Opioid Addiction<ins>
+### Opioid Addiction
 Defined as a chronic neurobiologic disease, characterized by behaviors that include 
 
 1. Impaired control over drug use
