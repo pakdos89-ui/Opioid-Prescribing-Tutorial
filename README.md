@@ -323,6 +323,15 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 
 6. Palliative Chemotherapy
 
+## Post Test Assessment
+
+Thank you for staying with us until the end of the module. We would greatly appreciate it if you could complete the post-test questionnaire to help us evaluate any changes in your knowledge and attitude toward pain management.
+
+The link for the post test is as the following:
+
+https://docs.google.com/forms/d/1NZA9qTaKpH7FqKpeWsNzEsmMcdWZG9ZEN-aFqpIWXjk/edit
+
+
 ## References
 
 1. MANAGEMENT OF CANCER PAIN CPG (SECOND EDITION)
