@@ -35,12 +35,7 @@ The main barriers to effective pain control in Malaysia relate to physicians’ 
 - 40% were concerned about opioid addiction 
 - 38% were worried about legal issues.
 
-Poor pain management in patients is due to
-1. Ignorance 
-2. Inexperience 
-3. Overwork 
-4. Traditional fears related to opioids, including fear of addiction and fear of side effects like respiratory depression 
-5. Failure of patients to ask for pain relief 
+<img width="902" height="527" alt="Poor Pain Mx" src="https://github.com/user-attachments/assets/78c10fb3-9aad-4dc0-bb4f-feae55c186e7" />
 
 Thus pain should be routinely assessed at regular interval as the 5th vital sign during routine observation to advocate “Pain as the 5th Vital Sign” initative.
 
