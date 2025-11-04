@@ -335,13 +335,12 @@ Thank you for staying with us until the end of the module. We would greatly appr
 
 The link for the post test is as the following:
 
-[https://docs.google.com/forms/d/e/1FAIpQLSeJBvT2WKvkKQGM7sKjhQJ8Jk4o0XwvXCnDV1NbulfZ4bUUWg/viewform?usp=header](url)
+[Click this link](https://docs.google.com/forms/d/e/1FAIpQLSeJBvT2WKvkKQGM7sKjhQJ8Jk4o0XwvXCnDV1NbulfZ4bUUWg/viewform?usp=header)
 
 ## References
 
 1. MANAGEMENT OF CANCER PAIN CPG (SECOND EDITION)
-[https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf](url)
+[](https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf)
 
 2. PAIN AS THE 5TH VITAL SIGN 
-[https://www.moh.gov.my/moh/resources/Penerbitan/Program%20Bebas%20Kesakitan/Garis%20Panduan/2_in_1_P5VS_Guideline_3rd_Edition_Corrected_2020.pdf
-](url)
+[](https://www.moh.gov.my/moh/resources/Penerbitan/Program%20Bebas%20Kesakitan/Garis%20Panduan/2_in_1_P5VS_Guideline_3rd_Edition_Corrected_2020.pdf)
